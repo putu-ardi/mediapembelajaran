@@ -14,6 +14,7 @@ Versi 1.1 (19/02/2024)
 * fix kelebihan opsi jawaban hal 7
  
 Media Pembelajaran : Pengenalan Perangkat Lunak Desain
+--------------------------------------------------------
 Perangkat Lunak :
 - H5P (dengan tools LUMI)
 - Audacity
@@ -21,11 +22,13 @@ Perangkat Lunak :
 - Microsoft Copilot (Generate Art Image)
 - Gemini Google (penjelasan detail ide)
 - Logo menjadi hak milik masing-masing pemilik software
+  
 Perangkat Keras PC Desktop :
 - AMD Ryzen 5 5600X
 - DDR 4 32 Gb
 - Radeon RX 57
 - Monitor 29' Ultra Wide
+
 Waktu Pengerjaan
 - Minggu, 18 Pebruari 2028
 - Pukul 12.00 - 16.50
