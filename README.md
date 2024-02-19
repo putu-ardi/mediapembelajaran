@@ -27,7 +27,7 @@ Perangkat Lunak :
 Perangkat Keras PC Desktop :
 - AMD Ryzen 5 5600X
 - DDR 4 32 Gb
-- Radeon RX 57
+- Radeon RX 570
 - Monitor 29' Ultra Wide
 
 Waktu Pengerjaan
