@@ -1,17 +1,18 @@
 # mediapembelajaran
 Media Pembelajaran DKV
-Ver 1.0 (18/02/2024)
-* Rilis pertama
-* terdapat 7 materi
-* setiap materi ada soal dengan model berbeda
-* setiap halaman materi terdapat audio pembaca
-* ada rangkuman akhir hasil pembelajaran (skor, progress dan presentase pembelajaran)
 
 Versi 1.1 (19/02/2024)
 * fix audio halaman 4
 * fix audio halaman 5
 * fix audio halaman 6
 * fix kelebihan opsi jawaban hal 7
+  
+Ver 1.0 (18/02/2024)
+* Rilis pertama
+* terdapat 7 materi
+* setiap materi ada soal dengan model berbeda
+* setiap halaman materi terdapat audio pembaca
+* ada rangkuman akhir hasil pembelajaran (skor, progress dan presentase pembelajaran)
  
 Media Pembelajaran : Pengenalan Perangkat Lunak Desain
 --------------------------------------------------------
